@@ -1,4 +1,4 @@
-# 
+# Nuevo AI Recipe Recommender plugins. Con IA explicable y toma de decisiones automatizada — optimizado para el máximo rendimiento.
 
 
 
